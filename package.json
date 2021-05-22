@@ -1,0 +1,33 @@
+{
+  "name": "lazy-twitter-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nomercy10/lazy-twitter-bot.git"
+  },
+  "keywords": [
+    "twitter",
+    "bot",
+    "bots",
+    "automation",
+    "fun"
+  ],
+  "author": "rushikesh.mhetre.work@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Nomercy10/lazy-twitter-bot/issues"
+  },
+  "homepage": "https://github.com/Nomercy10/lazy-twitter-bot#readme",
+  "devDependencies": {
+    "twit": "^2.2.11"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "dotenv": "^9.0.2"
+  }
+}
