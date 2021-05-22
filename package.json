@@ -29,5 +29,8 @@
   "dependencies": {
     "axios": "^0.21.1",
     "dotenv": "^9.0.2"
+  },
+  "engines": {
+    "node": "10.16.0"
   }
 }
